@@ -1,0 +1,1 @@
+create table loginId (username varchar(100), password varchar(50), question varchar(100), answer varchar(100));
